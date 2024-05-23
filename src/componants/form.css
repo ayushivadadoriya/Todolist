@@ -1,0 +1,29 @@
+.add-item input{
+    border: none;
+    padding: 10px;
+    font-size: large;
+    font-weight: 600;
+    width: 80%;
+    color: brown;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.add-item .add{
+    padding: 10px;
+    border: none;
+    background-color: burlywood;
+    font-size: large;
+    font-weight: 600;
+}
+.add-item .back-btn{
+    margin: 10px 10px 10px 180px;
+    padding: 10px;
+    color: brown;
+    background-color: white;
+    border: none;
+    width: 30%;
+    font-size: medium;
+    font-weight: 700;
+    border-radius: 10px;
+}

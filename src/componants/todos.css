@@ -1,0 +1,28 @@
+.show-item{
+    background-color: rgba(165, 42, 42, 0.637);
+    width: 80%;
+    margin:10px;
+    padding-left:20px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+}
+.show-item:hover{
+    background-color: white;
+    color: brown;
+}
+
+.show-item input{
+    margin: 5px 10px 5px 0px;
+}
+
+.show-item p{
+    width: 70%;
+}
+
+.show-item .action-box{
+    width: 10%;
+    padding: 10px;
+    margin-left: 40px;
+    font-size: large;
+}

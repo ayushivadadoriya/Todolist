@@ -1,0 +1,27 @@
+.main-div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 100px 35%;
+  background-color: burlywood;
+  padding: 50px 20px;
+  border-radius: 50px 0px;
+}
+
+.main-div .child-div{
+  margin-bottom: 30px;
+  color: brown;
+}
+
+.main-div .delete-all{
+  margin: 30px;
+  padding: 10px 30px;
+  background-color: white;
+  border: none;
+  color: brown;
+  font-size: medium;
+  font-weight: 700;
+  border-radius: 10px;
+}
+
